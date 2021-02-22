@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492806569258",
+    "project_id": "property-management-190fd",
+    "storage_bucket": "property-management-190fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492806569258:android:6778832487932a4603f253",
+        "android_client_info": {
+          "package_name": "com.example.propertymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492806569258-rku7jgl5ki05lgrdpvfti7itbmiv3287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaXREsZg9Ho_R4o_iYRriDLxqkweVQK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492806569258-rku7jgl5ki05lgrdpvfti7itbmiv3287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
